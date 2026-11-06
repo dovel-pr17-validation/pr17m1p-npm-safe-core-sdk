@@ -55,7 +55,7 @@
     "@safe-global/safe-passkey": "0.2.0",
     "@safe-global/types-kit": "workspace:^",
     "@types/semver": "^7.7.1",
-    "dotenv": "^16.4.7",
+    "dotenv": "^18.0.6",
     "hardhat": "^2.22.19",
     "hardhat-deploy": "^0.12.4",
     "tsconfig-paths": "^4.2.0",

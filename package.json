@@ -30,7 +30,7 @@
     "@safe-global/types-kit": "workspace:^",
     "@types/jest": "^29.5.14",
     "@types/node": "^22.20.5",
-    "dotenv": "^16.4.7",
+    "dotenv": "^18.0.6",
     "esbuild": "^0.28.1",
     "eslint": "^10.13.0",
     "eslint-config-prettier": "^10.1.8",
