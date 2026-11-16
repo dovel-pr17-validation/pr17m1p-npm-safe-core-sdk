@@ -91,7 +91,7 @@
     "@safe-global/types-kit": "workspace:^",
     "abitype": "^1.2.3",
     "semver": "^7.8.0",
-    "viem": "^2.52.2"
+    "viem": "^2.57.17"
   },
   "optionalDependencies": {
     "@noble/curves": "^1.6.0",
