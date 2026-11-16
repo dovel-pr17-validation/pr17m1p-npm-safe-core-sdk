@@ -46,7 +46,7 @@
     "tsc-alias": "^1.8.8",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.72.0",
-    "viem": "^2.52.2",
+    "viem": "^2.57.17",
     "yaml": "^2.9.0"
   },
   "lint-staged": {
